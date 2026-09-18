@@ -4,7 +4,7 @@ mike — developer
 
 15 y/o · coder · future cybersecurity student
 
-<img src="https://wallpaperaccess.com/full/8077555.png" /60%>
+<img src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/static/1ae7d81b561256e9c8b22a1e953d013f/ed3fb/Kunikida_Hanamaru_Holding_C_Programming_Language.png" width="70">
 
 </div>
 
