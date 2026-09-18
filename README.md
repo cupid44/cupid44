@@ -4,7 +4,7 @@ mike — developer
 
 15 y/o · coder · future cybersecurity student
 
-<img src="https://wallpaperaccess.com/full/8077555.png">
+<img src="https://wallpaperaccess.com/full/8077555.png"/60%>
 
 </div>
 
