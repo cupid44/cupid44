@@ -62,7 +62,7 @@ github activity
   
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=cupid44&hide_border=true&theme=transparent" width="70%"/>
 
 
 
